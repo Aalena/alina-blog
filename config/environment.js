@@ -24,17 +24,17 @@ module.exports = function(environment) {
     },
 
     blog: {
-      title: 'empress-blog',
-      description: 'Static Blog System - Built with Ember',
+      title: 'Alina Shrestha',
+      description: 'Blogs',
       coverImage: '/images/blog-cover.jpg',
 
       navigation: [{
         label: 'Home',
         route: 'index'
       }, {
-        label: 'Built by Chris Manson',
+        label: 'Alina Shrestha',
         route: 'page',
-        id: 'chris-manson'
+        id: 'alina'
       }]
     },
 
@@ -46,7 +46,7 @@ module.exports = function(environment) {
       removeSourceDir: false,
       justCopy: false,
       extensions: ['jpg', 'jpeg', 'png', 'gif']
-    }
+    },
   };
 
   if (environment === 'development') {
