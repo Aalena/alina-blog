@@ -32,8 +32,8 @@ module.exports = function(environment) {
         label: 'Home',
         route: 'index'
       }, {
-        label: 'Alina Shrestha',
-        route: 'page',
+        label: 'About Me',
+        route: 'page/alina',
         id: 'alina'
       }]
     },
