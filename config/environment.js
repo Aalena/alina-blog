@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   let ENV = {
-    modulePrefix: 'empress-blog-casper',
+    modulePrefix: '',
     environment,
     rootURL: '/',
     locationType: 'auto',
@@ -27,14 +27,15 @@ module.exports = function(environment) {
       title: 'Alina Shrestha',
       description: 'Blogs',
       coverImage: '/images/blog-cover.jpg',
+      twitter: 'shraalena',
 
       navigation: [{
         label: 'Home',
         route: 'index'
       }, {
         label: 'About Me',
-        route: 'page/alina',
-        id: 'alina'
+        route: 'page',
+        id: 'about_me'
       }]
     },
 
