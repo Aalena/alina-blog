@@ -3,4 +3,4 @@ name: Education
 image:
 imageMeta:
 ---
-A description for the education tag.
+Everything related to education.
