@@ -64,15 +64,15 @@ You have to fill Administrative Contact and Technical Contact Information. Save 
 
 Now you have to provide documents as follow:
 
-1. Document required for company/organization domain
-     - Copy of company registration
+1.Document required for company/organization domain
+- Copy of company registration
+- Cover letter
 
-     - Cover letter
+2.Document required for personal domain
+- Copy of citizenship
+- Cover letter
 
-2. Document required for personal domain
-Copy of citizenship
-Cover letter
-NOTE: File size must be less than 800 kilobytes and jpg, jpeg type.
+**NOTE: File size must be less than 800 kilobytes and jpg, jpeg type.**
 
 ![Image description](/images/files-req.jpg)
 
