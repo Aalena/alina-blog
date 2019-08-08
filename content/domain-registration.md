@@ -44,7 +44,7 @@ Register yourself a user in https://register.com.np/register. Fill username, p
 
 Then, go to https://register.com.np/. There you can search for required domain name.
 
-![Image description](/images/domain-regis/domain_search.jpg)
+![Image description](/images/domain-regis/domain-search.jpg)
 
 **STEP 3:**
 
