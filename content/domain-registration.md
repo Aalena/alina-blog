@@ -32,32 +32,32 @@ Each country is assigned with a Country Code Top-Level Domain (ccTLD) --a two-l
 
 Register yourself a user in https://register.com.np/register. Fill username, password, email. After that you will get an confirmation email.
 
-![Image description](/images/domain-regis/create-user.jpg)
+![Image description](/images/create-user.jpg)
 
 
 **SET 2:**
 
 **First Login yourself from the step 1 username and password.** 
 
-![Image description](/images/domain-regis/login.jpg)
+![Image description](/images/login.jpg)
 
 
 Then, go to https://register.com.np/. There you can search for required domain name.
 
-![Image description](/images/domain-regis/domain-search.jpg)
+![Image description](/images/domain-search.jpg)
 
 **STEP 3:**
 
 If the domain name is available. Then you can register for that domain name through the Register now Button.
 
-![Image description](/images/domain-regis/searched.jpg)
+![Image description](/images/searched.jpg)
 
 
 **STEP 4:**
 
 You have to fill Administrative Contact and Technical Contact Information. Save the detail and continue the process.
 
-![Image description](/images/domain-regis/contact.jpg)
+![Image description](/images/contact.jpg)
 
 
 **STEP 5:**
@@ -74,14 +74,14 @@ Copy of citizenship
 Cover letter
 NOTE: File size must be less than 800 kilobytes and jpg, jpeg type.
 
-![Image description](/images/domain-regis/files-req.jpg)
+![Image description](/images/files-req.jpg)
 
 
 **STEP 6:**
 
 After filling all this information you can Submit request for domain registration.
 
-![Image description](/images/domain-regis/register-domain.jpg)
+![Image description](/images/register-domain.jpg)
 
 
 **STEP 7:**
