@@ -1,6 +1,6 @@
 ---
 title: Free Personal '.np' Domain Registration
-image: 
+image: /images/domain-thumbnail.jpg
 imageMeta:
   attribution:
   attributionLink:
@@ -32,32 +32,32 @@ Each country is assigned with a Country Code Top-Level Domain (ccTLD) --a two-l
 
 Register yourself a user in https://register.com.np/register. Fill username, password, email. After that you will get an confirmation email.
 
-![Image description](/public/images/domain_regis/create_user.jpg)
+![Image description](/images/domain-regis/create-user.jpg)
 
 
 **SET 2:**
 
 **First Login yourself from the step 1 username and password.** 
 
-![Image description](/public/images/domain_regis/login.jpg)
+![Image description](/images/domain-regis/login.jpg)
 
 
 Then, go to https://register.com.np/. There you can search for required domain name.
 
-![Image description](/public/images/domain_regis/domain_search.jpg)
+![Image description](/images/domain-regis/domain_search.jpg)
 
 **STEP 3:**
 
 If the domain name is available. Then you can register for that domain name through the Register now Button.
 
-![Image description](/public/images/domain_regis/searched.jpg)
+![Image description](/images/domain-regis/searched.jpg)
 
 
 **STEP 4:**
 
 You have to fill Administrative Contact and Technical Contact Information. Save the detail and continue the process.
 
-![Image description](/public/images/domain_regis/contact.jpg)
+![Image description](/images/domain-regis/contact.jpg)
 
 
 **STEP 5:**
@@ -74,14 +74,14 @@ Copy of citizenship
 Cover letter
 NOTE: File size must be less than 800 kilobytes and jpg, jpeg type.
 
-![Image description](/public/images/domain_regis/files_req.jpg)
+![Image description](/images/domain-regis/files-req.jpg)
 
 
 **STEP 6:**
 
 After filling all this information you can Submit request for domain registration.
 
-![Image description](/public/images/domain_regis/register_domain.jpg)
+![Image description](/images/domain-regis/register-domain.jpg)
 
 
 **STEP 7:**
